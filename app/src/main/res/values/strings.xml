@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyQuizzApp</string>
+
+    <string name="true_button">Vrai</string>
+    <string name="false_button">Faux</string>
+    <string name="initial_score">Score 0/20</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Android Inc was founded in Palo Alto, California in october 2005.</string>
+    <string name="question_2">Android Operating System is currently developped by Google.</string>
+    <string name="question_3">The first Android device was HTC DREAM.</string>
+    <string name="question_4">Android OS is based on Windows.</string>
+    <string name="question_5">The final APK file can contain more than one AndroidManifest.xml.</string>
+    <string name="question_6">The official place to download android apps is Google Play Store.</string>
+    <string name="question_7">Most of the Android operation system code is written in C++.</string>
+    <string name="question_8">The official IDE for creating Android applications is Eclipse.</string>
+    <string name="question_9">The default build tool in Android Studio is Gradle.</string>
+    <string name="question_10">To support multi-language applications in Android you will use strings.xml.</string>
+    <string name="question_11">R.java is the name of the file that contains all the ids of a project.</string>
+    <string name="question_12">Applications do not have to be signed by developpers.</string>
+    <string name="question_13">ANR means Application not Responding.</string>
+    <string name="question_14">The data Base available on any Android device is SQLite.</string>
+    <string name="question_15">To shrink Java code in Android Studio you use Gradle.</string>
+    <string name="question_16">Android releases are in Alphabetical order.</string>
+    <string name="question_17">Android OS use Dalvik Virtual Machine.</string>
+    <string name="question_18">Android applications have .apk extension.</string>
+    <string name="question_19">Apk extension stands for Application Package Kit.</string>
+    <string name="question_20">AndroidManifest.xml residing inside APK file is human readable.</string>
+
+
+</resources>

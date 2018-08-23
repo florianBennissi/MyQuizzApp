@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyQuizzApp</string>
+    <string name="true_button">Vrai</string>
+    <string name="false_button">Faux</string>
+    <string name="incorrect_toast">Faux!</string>
+    <string name="correct_toast">Bonne réponse!</string>
+    <string name="question_1">La société Android a été créée à Palo Alto, en Californie en octobre 2005.</string>
+    <string name="question_2">Android est actuellement développé par Google.</string>
+    <string name="question_3">Le premier appareil android était l\'HTC DREAM</string>
+    <string name="question_4">Le système d\'exploitation Android est basé sur Windows.</string>
+    <string name="question_5">Le fichier final APK peut contenir plus d\'un fichier AndroidManifest.xml.</string>
+    <string name="question_6">L\'endroid offciel pour télécharger les applications Android est Google Play Store.</string>
+    <string name="question_7">La plupart du code de l\'OS Android est écrit en C++.</string>
+    <string name="question_8">L\'IDE offciel pour créer les applications Android est Eclipse.</string>
+    <string name="question_9">Le build tool par défaut d\'Android Studio est Gradle.</string>
+    <string name="question_10">Pour supporter les applications multi-langues, il faut utiliser le fichier string.xml.</string>
+    <string name="question_11">R.java est le nom du fichier qui contient toutes les id du projet.</string>
+    <string name="question_12">Les applications n\'ont pas à être signées par les développeurs.</string>
+    <string name="question_13">ANR veut dire \"Applcation not responding\".</string>
+    <string name="question_14">La base de donnée disponible pour les appareils Android est SQLite.</string>
+    <string name="question_15">Pour réduire le code Java dans Android on utlise Gradle.</string>
+    <string name="question_16">Les différentes versions d\'Android sont publiées par ordre alphabétique.</string>
+    <string name="question_17">Le système d\'exploitation utilise Dalvik Virtual Machine.</string>
+    <string name="question_18">Les applications Android ont l\'extension .apk.</string>
+    <string name="question_19">Apk veut dire \"Application Package Kit\".</string>
+    <string name="question_20">Le fichier AndroidManifest.xml peut être lu et compris par une personne.</string>
+
+</resources>
